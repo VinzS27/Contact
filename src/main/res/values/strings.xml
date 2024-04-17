@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contatti</string>
+    <string name="tessera">Tessera</string>
+    <string name="data_di_registrazione">Data di registrazione</string>
+</resources>
