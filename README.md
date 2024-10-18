@@ -2,7 +2,7 @@ API 33 Android 13
 
 <h1 align="center" id="title">Contact App</h1>
 
-<h2>Description</h2>
+<h2>Description:</h2>
 <p id="description">- List of contact</p>
 <p id="description">- Personalized profile pic</p>
 <p id="description">- Search function</p>
